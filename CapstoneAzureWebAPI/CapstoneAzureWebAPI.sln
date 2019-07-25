@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneAzureWebAPI", "CapstoneAzureWebAPI\CapstoneAzureWebAPI.csproj", "{DFA83CE5-F331-4547-9DAB-7BE4CBB9B6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA83CE5-F331-4547-9DAB-7BE4CBB9B6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA83CE5-F331-4547-9DAB-7BE4CBB9B6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA83CE5-F331-4547-9DAB-7BE4CBB9B6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA83CE5-F331-4547-9DAB-7BE4CBB9B6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8D315D-4E37-4951-9D93-F10284ACF46A}
+	EndGlobalSection
+EndGlobal
